@@ -1,3 +1,3 @@
 # Outcome_prediction
 
-Preprint will be available 10/10/2023
+Preprint will be available 6am AEST 10/10/2023
